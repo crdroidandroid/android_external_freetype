@@ -87,7 +87,7 @@ cc_defaults {
         "-DDARWIN_NO_CARBON",
         "-DFT2_BUILD_LIBRARY",
 
-        "-O2",
+        "-O3",
 
         // Upstream ignores unused parameter warning
         "-Wno-unused-parameter",
