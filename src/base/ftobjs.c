@@ -2532,7 +2532,6 @@
       face_index &= 0x7FFFFFFFL;
     else
     {
-      face_index  = -face_index;
       face_index &= 0x7FFFFFFFL;
       face_index  = -face_index;
     }
